@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mélanie</h1>
 <h3 align="center">A passionate backend developer from France 🇫🇷🥖</h3>
 
-- 🔭 I’m currently working on [La Bulle Kreativ](https://www.labullekreativ.fr/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/melanie-rat**
-
-- ⚡ My funny side project **https://github.com/Melrt/cliip**
 
 
 <h3 align="left">Languages and Tools:</h3>
